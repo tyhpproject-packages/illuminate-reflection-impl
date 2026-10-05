@@ -8,7 +8,7 @@
     ],
     "type": "library",
     "license": "Apache-2.0",
-    "version": "13.32.0.0",
+    "version": "13.33.0.0",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
@@ -39,7 +39,7 @@
     },
     "require": {
         "php": ">=8.2",
-        "illuminate/reflection": "^13.0",
+        "illuminate/reflection": "13.33.0",
         "tyhpdef/illuminate-collections": "^13.0",
         "tyhpdef/illuminate-contracts": "^13.0"
     },
